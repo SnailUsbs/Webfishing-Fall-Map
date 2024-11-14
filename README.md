@@ -1,5 +1,6 @@
 # Fall Fishing : A Fall Themed Webfishing Custom Map
 ***Needs the lure mod installed as well, like most custom webfishing maps at the moment***
+
 *Currently tested and confirmed to work on webfishing version v1.10*
 
 Fall Fishing is a custom webfishing map that is a set of islands connected through bridges, while also of course being in Fall. This map uses some textures from the itch.io version of webfishing, and mainly uses assets already within webfishing to make sure the map can run smoothly on as many devices as possible 
