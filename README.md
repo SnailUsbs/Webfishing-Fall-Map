@@ -37,7 +37,7 @@ This is my first webfishing map, so I wanted to do something a little more basic
 
 - Adds in the unused boats and tents as props
 
-- Alongside having all of the normal stores and buildings, I also made the a black hole that wont despawn unlike the normal one, so that way you can vist the void easil at anytime. Its beside the light, and the two npc stores. 
+- Alongside having all of the normal stores and buildings, I also made a black hole that wont despawn unlike the normal one, so that way you can vist the void easil at anytime. Its beside the light, and the two npc stores. 
 
 - Keeps the ocean and pond rock jumps.
 
