@@ -21,7 +21,9 @@ Each island will also have their own bait and sell shops
 
 Outside of that though, everything else is meant to be explored yourself.
 
-**For updates on the map, and any other webfishing projects I work on, you can check out my twitter @SnailUSBs and bluesky @SnailUSB** This is my first webfishing map, so I wanted to do something a little more basic before jumping into more complex projects, plus I really wanted a fall map. 
+**For updates on the map, and any other webfishing projects I work on, you can check out my twitter @SnailUSBs and bluesky @SnailUSB** 
+
+This is my first webfishing map, so I wanted to do something a little more basic before jumping into more complex projects, plus I really wanted a fall map. 
 
 # Links
 ## Webfishing v1.10:
