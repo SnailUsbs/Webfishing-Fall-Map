@@ -25,7 +25,7 @@ Outside of that though, everything else is meant to be explored yourself.
 
 # Links
 ## Webfishing v1.10:
-- Github:
+- Github: https://github.com/SnailUsbs/Webfishing-Fall-Map/releases/tag/fallfishing
 - Thunderstore:
 
 ## Features
