@@ -5,7 +5,7 @@
 
 Fall Fishing is a custom webfishing map that is a set of islands connected through bridges, while also of course being in Fall. This map uses some textures from the itch.io version of webfishing, and mainly uses assets already within webfishing to make sure the map can run smoothly on as many devices as possible 
 
-The map is made up of 5 main islands, with some extra ones here and there. The island where you spawn is the main island, and is where you can find the following:
+The map is made up of 4 main islands, with some extra ones here and there. The island where you spawn is the main island, and is where you can find the following:
 - Bait and Sell store
 - Vending machine
 - Quest board
