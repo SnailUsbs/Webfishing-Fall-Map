@@ -28,7 +28,7 @@ This is my first webfishing map, so I wanted to do something a little more basic
 # Links
 ## Webfishing v1.10:
 - Github: https://github.com/SnailUsbs/Webfishing-Fall-Map/releases/tag/fallfishing
-- Thunderstore: https://thunderstore.io/c/webfishing/p/SnailUSB/FallFishing/
+- Thunderstore: I can not for the life of me get thunderstore to work, so no thunderstore page right now
 
 ## Features
 - Adds in an entirely new main map fall fishing, which is a few islands connected together using bridges. All NPCs, buildings, and stores are all here, alongside hidden spots for metal detectoring
