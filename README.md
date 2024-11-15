@@ -3,9 +3,9 @@
 
 *Currently tested and confirmed to work on webfishing version v1.10*
 
-Fall Fishing is a custom webfishing map that is a set of islands connected through bridges, while also of course being in Fall. This map uses some textures from the itch.io version of webfishing, and mainly uses assets already within webfishing to make sure the map can run smoothly on as many devices as possible 
+Fall Fishing is a custom Webfishing map consisting of a set of islands connected through bridges, all set in a Fall-themed environment. This map uses some textures from the itch.io version of webfishing, and outside of that primarily uses assets already within Webfishing to ensure smooth performance on as many devices as possible 
 
-The map is made up of 4 main islands, with some extra ones here and there. The island where you spawn is the main island, and is where you can find the following:
+The map is made up of 4 main islands, The map is made up of four main islands, with some extra smaller ones scattered around. The island where you spawn is the main island, and is where you can find the following:
 - Bait and Sell store
 - Vending machine
 - Quest board
@@ -13,13 +13,13 @@ The map is made up of 4 main islands, with some extra ones here and there. The i
 - aquarium cabin
 - Frog NPC
 - Opossum NPC
-- Light House
+- Lighthouse
 - Chalk area
 - permanent black hole that brings you to the void
 
 Each island will also have their own bait and sell shops
 
-Outside of that though, everything else is meant to be explored yourself.
+Outside of those things, everything else is meant to be explored on your own.
 
 **For updates on the map, and any other webfishing projects I work on, you can check out my twitter @SnailUSBs and bluesky @SnailUSB** 
 
@@ -37,10 +37,13 @@ This is my first webfishing map, so I wanted to do something a little more basic
 
 - Adds in the unused boats and tents as props
 
-- Alongside having all of the normal stores and buildings, I also made a black hole that wont despawn unlike the normal one, so that way you can vist the void easil at anytime. Its beside the light, and the two npc stores. 
+- Adds a permanent black hole that won't despawn like the normal one, so you can visit the void easily at any time. Its beside the light, and the two npc stores. 
 
 - Keeps the ocean and pond rock jumps.
 
 - Keeps the light house, both of the other buildings, and all npcs. All of this is on the main island in the middle, which is where you spawn at. 
 
 - Bushes, leaves, trees, and grass have been retextured to be in line with fall colors
+
+# v1.0.2 Change log
+- Fixed the ripple spots and meteors, so now they appear in the correct spots.
