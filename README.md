@@ -27,7 +27,7 @@ This is my first webfishing map, so I wanted to do something a little more basic
 
 # Links
 ## Webfishing v1.10:
-- Github: https://github.com/SnailUsbs/Webfishing-Fall-Map/releases/tag/fallfishingupdate3
+- Github: https://github.com/SnailUsbs/Webfishing-Fall-Map/releases/tag/fallfishingupdatenew
 - Thunderstore: https://thunderstore.io/c/webfishing/p/SnailUSB/FallFishing/
 
 ## Features
