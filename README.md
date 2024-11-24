@@ -45,10 +45,6 @@ This is my first webfishing map, so I wanted to do something a little more basic
 
 - Bushes, leaves, trees, and grass have been retextured to be in line with fall colors
 
-# V1.0.3 CHANGE LOG:
-- Fixed ripple spots that were floating
-- Fixed the quest board so you won't be able to get stuck behind it
-- Fixed a a glitchy ramp that would cause your player to get stuck if you dove into it
-- Fixed a broken boombox
-- Added signs that tell you if a pond is salt or fresh water (ocean is 100% salt water)
-- Added a floor under the ocean, so now the webswimming mods works on the map
+# V1.0.4 CHANGE LOG:
+- Fixed the broken spawn glitch
+- Added another chalk zone on the island with yellow trees
